@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Q58NfGP1V4B6tygDQf2/vLZYcpM=",
+			"path": "github.com/dropbox/godropbox/errors",
+			"revision": "cbaa11a299645812c97079a5f6621c1301ee98c6",
+			"revisionTime": "2017-10-12T23:31:20Z"
+		},
+		{
+			"checksumSHA1": "rRPwHDSrc2hKU9pdvr6OFgxvrKY=",
+			"path": "github.com/dropbox/godropbox/sync2",
+			"revision": "cbaa11a299645812c97079a5f6621c1301ee98c6",
+			"revisionTime": "2017-10-12T23:31:20Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "d866cfc389cec985d6fda2859936a575a55a3ab6",
+			"revisionTime": "2017-12-11T20:45:21Z"
+		}
+	],
+	"rootPath": "awesomeProject"
+}
